@@ -1,2 +1,3 @@
-# sfguest.github.io
-Our portfolio website
+# username.github.io
+
+This is a sample website built using HTML and CSS.
